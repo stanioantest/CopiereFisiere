@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CopiereFisiere.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="sursafisiere" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\alina\OneDrive\Desktop\desters</Value>
+    </Setting>
+    <Setting Name="destinatiefisiere" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\alina\OneDrive\Desktop\desters1</Value>
+    </Setting>
+    <Setting Name="timprescanare" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">20000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
